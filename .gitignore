@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+Calibration/data/*
+Calibration/output/*
+Calibration/__pycache__/

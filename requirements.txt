@@ -1,0 +1,7 @@
+numpy
+matplotlib==3.7.0
+opencv-contrib-python==4.6.0.66
+opencv-python==4.7.0.72
+imutils==0.5.4
+PyQt5==5.15.9
+tello-python==1.1.6
